@@ -1,0 +1,44 @@
+[
+  {"t": 1, "n": "Heretic Worker", "tier": 1, "c": "normal", "f": "HERETIC"},
+  {"t": 2, "n": "Heretic Mage", "tier": 2, "c": "normal", "f": "HERETIC"},
+  {"t": 3, "n": "Heretic Archer", "tier": 2, "c": "normal", "f": "HERETIC"},
+  {"t": 4, "n": "Heretic Warrior", "tier": 3, "c": "normal", "f": "HERETIC"},
+  {"t": 5, "n": "Heretic Mage Boss", "tier": 4, "c": "boss", "f": "HERETIC"},
+  {"t": 6, "n": "Heretic Boss", "tier": 4, "c": "boss", "f": "HERETIC"},
+  
+  {"t": 100, "n": "Keeper Giant", "tier": 5, "c": "boss", "f": "KEEPER"},
+  {"t": 101, "n": "Keeper Druid", "tier": 4, "c": "veteran", "f": "KEEPER"},
+  {"t": 102, "n": "Keeper Guardian", "tier": 4, "c": "normal", "f": "KEEPER"},
+  {"t": 103, "n": "Keeper Treant", "tier": 5, "c": "boss", "f": "KEEPER"},
+  
+  {"t": 200, "n": "Undead Skeleton", "tier": 3, "c": "normal", "f": "UNDEAD"},
+  {"t": 201, "n": "Undead Mage", "tier": 5, "c": "boss", "f": "UNDEAD"},
+  {"t": 202, "n": "Undead Knight", "tier": 4, "c": "veteran", "f": "UNDEAD"},
+  {"t": 203, "n": "Undead Dragon", "tier": 8, "c": "boss", "f": "UNDEAD"},
+  
+  {"t": 300, "n": "Morgana Mage", "tier": 4, "c": "normal", "f": "MORGANA"},
+  {"t": 301, "n": "Morgana Knight", "tier": 5, "c": "boss", "f": "MORGANA"},
+  {"t": 302, "n": "Morgana Priest", "tier": 4, "c": "veteran", "f": "MORGANA"},
+  
+  {"t": 400, "n": "Hell Demon", "tier": 5, "c": "boss", "f": "HELL"},
+  {"t": 401, "n": "Hell Hound", "tier": 4, "c": "normal", "f": "HELL"},
+  
+  {"t": 500, "n": "Avalon Guardian", "tier": 7, "c": "boss", "f": "AVALON"},
+  {"t": 501, "n": "Avalon Knight", "tier": 6, "c": "veteran", "f": "AVALON"},
+  
+  {"t": 1000, "n": "Gatherer Worker", "tier": 2, "c": "living", "f": "WOOD"},
+  {"t": 1001, "n": "Treant", "tier": 4, "c": "boss", "f": "WOOD"},
+  {"t": 1002, "n": "Ent Lord", "tier": 6, "c": "boss", "f": "WOOD"},
+  
+  {"t": 2000, "n": "Rock Golem", "tier": 4, "c": "boss", "f": "ROCK"},
+  {"t": 2001, "n": "Stone Giant", "tier": 6, "c": "boss", "f": "ROCK"},
+  
+  {"t": 3000, "n": "Fiber Spirit", "tier": 3, "c": "normal", "f": "FIBER"},
+  {"t": 3001, "n": "Cotton Golem", "tier": 5, "c": "boss", "f": "FIBER"},
+  
+  {"t": 4000, "n": "Hide Beast", "tier": 4, "c": "boss", "f": "HIDE"},
+  {"t": 4001, "n": "Swamp Beast", "tier": 6, "c": "boss", "f": "HIDE"},
+  
+  {"t": 5000, "n": "Ore Elemental", "tier": 5, "c": "boss", "f": "ORE"},
+  {"t": 5001, "n": "Crystal Golem", "tier": 7, "c": "boss", "f": "ORE"}
+]
