@@ -1,0 +1,32 @@
+[
+  {"id": 1, "n": "Bridgewatch", "pvp": false},
+  {"id": 2, "n": "Martlock", "pvp": false},
+  {"id": 3, "n": "Thetford", "pvp": false},
+  {"id": 4, "n": "Fort Sterling", "pvp": false},
+  {"id": 5, "n": "Lymhurst", "pvp": false},
+  {"id": 6, "n": "Caerleon", "pvp": true},
+  
+  {"id": 1000, "n": "Tutorial Island", "pvp": false},
+  {"id": 1001, "n": "Starter Zone", "pvp": false},
+  
+  {"id": 2000, "n": "Yellow Zone", "pvp": false},
+  {"id": 2500, "n": "Yellow Zone Safe", "pvp": false},
+  
+  {"id": 3000, "n": "Red Zone", "pvp": true},
+  {"id": 3001, "n": "Red Zone PvP", "pvp": true},
+  {"id": 3002, "n": "Red Zone Danger", "pvp": true},
+  
+  {"id": 4000, "n": "Black Zone", "pvp": true},
+  {"id": 4001, "n": "Black Zone Deep", "pvp": true},
+  {"id": 4002, "n": "Black Zone Core", "pvp": true},
+  {"id": 4100, "n": "Black Zone Edge", "pvp": true},
+  {"id": 4200, "n": "Black Zone Remote", "pvp": true},
+  {"id": 4300, "n": "Black Zone Far", "pvp": true},
+  
+  {"id": 5000, "n": "Mists", "pvp": true},
+  {"id": 5001, "n": "Mists Solo", "pvp": true},
+  {"id": 5002, "n": "Mists Duo", "pvp": true},
+  
+  {"id": 6000, "n": "Avalon Road", "pvp": true},
+  {"id": 6001, "n": "Avalon Depths", "pvp": true}
+]
